@@ -1,0 +1,2189 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x179c)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   25.21.14.1722
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.130 seconds
+Platform assembly: C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\costa\Documents\C# projects\Unity course\Project 2. Roller Madness\RollerMadness\BuildPC\RollerMadness_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.791700 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1688 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.774400 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 539.
+Total: 1.029000 ms (FindLiveObjects: 0.062500 ms CreateObjectMapping: 0.023500 ms MarkObjects: 0.921800 ms  DeleteObjects: 0.006900 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.663700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 798.
+Total: 0.339700 ms (FindLiveObjects: 0.043100 ms CreateObjectMapping: 0.017900 ms MarkObjects: 0.272900 ms  DeleteObjects: 0.005100 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.623100 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.430700 ms (FindLiveObjects: 0.032300 ms CreateObjectMapping: 0.012900 ms MarkObjects: 0.267900 ms  DeleteObjects: 0.116800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.914400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 799.
+Total: 0.391400 ms (FindLiveObjects: 0.053800 ms CreateObjectMapping: 0.021400 ms MarkObjects: 0.309400 ms  DeleteObjects: 0.006000 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.617100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 799.
+Total: 0.541200 ms (FindLiveObjects: 0.071100 ms CreateObjectMapping: 0.034800 ms MarkObjects: 0.413100 ms  DeleteObjects: 0.021300 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position) [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
